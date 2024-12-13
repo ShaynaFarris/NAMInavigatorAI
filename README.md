@@ -18,7 +18,7 @@ Go to [Google CoLab](https://colab.research.google.com/), select **Upload** and 
 
 Click the key icon on the lefthand side of the page. Create new secrets for your two API keys with the following names
   - OPENAI_API_KEY
-  - PINECONDE_API_KEY
+  - PINECONE_API_KEY
   > Ensure you allow Notebook acccess for them both
 
 
